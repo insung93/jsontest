@@ -1,0 +1,31 @@
+{
+    "messages": [
+        {
+            "chat_id": 1,
+            "type": "text",
+            "chat_created_at": "2022-06-09",
+            "contents": "test messege1",
+            "not_read_count": 10,
+            "emp_id": 10,
+            "room_id": 1
+        },
+        {
+            "chat_id": 2,
+            "type": "text",
+            "chat_created_at": "2022-06-19",
+            "contents": "test messege2",
+            "not_read_count": 20,
+            "emp_id": 20,
+            "room_id": 2
+        },
+        {
+            "chat_id": 3,
+            "type": "text",
+            "chat_created_at": "2022-06-29",
+            "contents": "test messege3",
+            "not_read_count": 30,
+            "emp_id": 30,
+            "room_id": 3
+        }
+    ]
+}
